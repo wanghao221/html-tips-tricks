@@ -1,12 +1,15 @@
 # html-tips-tricks
 
-`HTML5` is not a new thing. We have been using several features of it since the initial release(October 2014). As part of `#100DaysOfCode` initiative, I have taken time out to revisit the feature list again. See what I found? I haven't really used a bunch of it!
+HTML5不是什么新鲜事。自初始版本（2008 年 1 月）以来，我们一直在使用它的几个功能。我再次仔细查看了 HTML5 功能列表。看看我发现了什么？到目前为止，我还没有真正使用过很多！
 
-In this repo, I am listing down such `HTML5` features that I haven't used much but, found them useful. I have also created a working example flow and hosted on netlify. Hope you find it useful.
+在本文中，我列出了 10 个这样的HTML5功能，这些功能过去我用得不多，但现在发现它们很有用。我还创建了一个工作示例流程并托管在GitHub. 希望你也觉得它有用。让我们开始了解有关它们中的每一个的解释、代码和快速提示。
 
 > [https://wanghao221.github.io/html-tips-tricks/](https://wanghao221.github.io/html-tips-tricks/)
 
-To read more about this: 
+阅读更多相关信息: 
 
-> [10 useful HTML5 features You may not be using](https://blog.greenroots.info/10-useful-html5-features-you-may-not-be-using-ckdua7ql300l1m3s1ez7teshc)
+> [你真的熟练运用 HTML5 了吗，这10 个酷炫的 H5 特性你会几个？](https://blog.csdn.net/qq_44273429/article/details/118487938)
 
+————————————————
+版权声明：本文为CSDN博主「海拥✘」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/qq_44273429/article/details/118487938
