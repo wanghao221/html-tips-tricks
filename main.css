@@ -75,3 +75,22 @@ dialog::backdrop {
   );
   backdrop-filter: blur(3px);
 }
+.page-footer {
+		  position: fixed;
+		  right: 0;
+		  bottom: 20px;
+		  display: flex;
+		  align-items: center;
+		  padding: 5px;
+		  color: black;
+		  background: rgba(255, 255, 255, 0.65);
+		}
+		
+		.page-footer a {
+		  display: flex;
+		  margin-left: 4px;
+		}
+		.touxiang{
+			width:24px;
+			height:24px;
+		}
